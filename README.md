@@ -1,1 +1,1 @@
-# lab12
+# zadanie 2
